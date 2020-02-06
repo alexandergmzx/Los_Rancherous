@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment1.params=
+comment1.target=Enemigo()
+comment2.params=
+comment2.target=void\ atacar()
+comment3.params=
+comment3.target=void\ leerTeclado()
+comment4.params=
+comment4.target=void\ mover()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment6.params=
+comment6.target=boolean\ detectarColision()
+numComments=7
